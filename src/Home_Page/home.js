@@ -639,9 +639,9 @@ class Home extends React.Component {
                         </div>
                     </section>
                     <section class="footer">
-                        <p>Copyright &copy; 2019 Company Name
+                        <p>Copyright &copy; 2022 TEAM TWTS
 
-                            . Design: TemplateMo</p>
+                            . Design: Manideep Netha J</p>
                     </section>
                 </div>
 

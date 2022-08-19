@@ -37,7 +37,7 @@ class Home extends React.Component {
 
                 <div class="sidebar-navigation hidde-sm hidden-xs">
                     <div class="logo">
-                        <a href="#">Sam<em>antha</em></a>
+                        <a href="#top">Sam<em>antha</em></a>
                     </div>
                     <nav>
                         <ul>
@@ -86,11 +86,11 @@ class Home extends React.Component {
                         </ul>
                     </nav>
                     <ul class="social-icons">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#top"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://twitter.com/TeamTWTS?s=20"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fa fa-rss"></i></a></li>
-                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                        <li><a href="#top"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="#top"><i class="fa fa-rss"></i></a></li>
+                        <li><a href="#top"><i class="fa fa-behance"></i></a></li>
                     </ul>
                 </div>
 
@@ -349,7 +349,7 @@ class Home extends React.Component {
                                 </div>
                                 <div class="item">
                                 <div class="ratio ratio-1x1">
-                                        <iframe width="325" height="400" src="https://www.youtube.com/embed/u_wB6byrl5k" title="Oo Antava Mawa..Oo Oo Antava Full Video Song | Pushpa Songs | Allu Arjun| DSP |Sukumar |Samantha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                                        <iframe width="325" height="400" src="https://www.youtube.com/embed/u_wB6byrl5k" title="Oo Antava Mawa..Oo Oo Antava Full Video Song " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                                     </div>
                                     
                                 </div>

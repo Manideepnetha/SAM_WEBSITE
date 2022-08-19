@@ -336,21 +336,19 @@ class Home extends React.Component {
                         <div class="section-content">
                             <div class="owl-carousel owl-theme">
                                 <div class="item">
-                                    <div class="ratio ratio-1x1">
+                                    
                                         <iframe width="310" height="400" src="https://www.youtube.com/embed/u_wB6byrl5k" title="Oo Antava Mawa..Oo Oo Antava Full Video Song | Pushpa Songs | Allu Arjun| DSP |Sukumar |Samantha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-                                    </div>
+                                    
                                     
                                 </div>
                                 <div class="item">
-                                <div class="ratio ratio-1x1">
+                                
                                 <iframe width="310" height="400" src="https://www.youtube.com/embed/-xfQGk3aMLU" title="Kanmani Rambo Khatija Two Two Two Video | Vijay Sethupathi, Nayanthara, Samantha | Anirudh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-                                    </div>
                                     
                                 </div>
                                 <div class="item">
-                                <div class="ratio ratio-1x1">
+                                
                                         <iframe width="325" height="400" src="https://www.youtube.com/embed/u_wB6byrl5k" title="Oo Antava Mawa..Oo Oo Antava Full Video Song " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-                                    </div>
                                     
                                 </div>
                                 <div class="item">

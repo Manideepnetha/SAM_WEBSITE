@@ -145,7 +145,7 @@ class Home extends React.Component {
                             <div class="owl-carousel owl-theme">
                                 <div class="item">
                                     <div class="image">
-                                        <img src="https://drive.google.com/uc?export=view&id=15A-7uJK4M_O9iMr-_Y_0Je6beO-tBM6b" alt="" />
+                                        <img src="https://drive.google.com/uc?export=view&id=1CjQgh9i3nZR_G3iETj52ar2sPTOB5bIl" alt="" />
                                         <div class="featured-button button">
                                             <a href="#projects">See More</a>
                                         </div>
